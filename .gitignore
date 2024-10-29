@@ -1,0 +1,4 @@
+resnet50_weights_best_acc.tar
+dataset/
+runs/
+.myvenv
